@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Asad Ahmed working at Techma Zone.
+- 👋 Hi, I’m Asad Ahmed.
 - 👀 I’m interested in Data Sciences, Machine Learning, NLP, Deep Learning, Computer Vision.
 - 🌱 I’m currently learning Data Sciences and Machine Learning.
 - 💞️ I’m looking to get hired as Data Scientist, Data Analyst and similar positions.
