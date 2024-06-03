@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asad Ahmed.
-- 👀 I’m interested in Data Sciences, Machine Learning, NLP, Deep Learning, Computer Vision.
-- 🌱 I’m currently learning Data Sciences and Machine Learning.
-- 💞️ I’m looking to get hired as Data Scientist, Machine Learning Engineer.
+- 👀 I’m interested in Generarive A.I, Data Sciences, Machine Learning, NLP, Deep Learning, Computer Vision.
+- 🌱 I’m currently learning Generative A.I (Langchain, LLMs, Assistant API, Fast API), Machine Learning (Predictive Modeling).
+- 💞️ I’m looking to get hired as A.I Engineer, M.L Engineer.
 - 📫 Reach me at asad.datascientist@gmail.com
 
 <!---
